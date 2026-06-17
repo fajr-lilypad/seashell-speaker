@@ -100,3 +100,7 @@ Cad Notes:
 |                      |                               | Subtotal | $28.99 |                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 
+## Firmware
+
+## Notes and Acknowledgements
+- Thank you to *hackclub* and the *fallout* team for this oppurtunity and for making this project possible!
