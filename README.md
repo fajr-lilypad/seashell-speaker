@@ -41,8 +41,20 @@ Cad Notes:
 - Okay, so CAD took a WHILE. Creating such an organic shape was difficult, so eneded up relying of the revolve, sweep, and coil tools. Since there arent any tutotials online for creating this type of shell in Fusion either, I had to experiment with blender along with borrowing pieces of 3d models online. Once I had a shape i was happy with, I turned it into a case by splitting it in half, adding holes for magnets, and enclosure for the speaker standoffs for the pcb, and holes for the speaker wires.
 - The case itself is pretty easy to use, and I'm happy with how it turned out. If I could go back and change anything, I'd definetly check before hand that my case and pcb were compatible. Orginally, I had planned to tuck my pcb away in the lip/opening of the shell. However, that would be pretty mush impossible without making a HUGE shell case, so I had to basically do a whole redesign of the pcb and case.
 
+# PCB Screenshots
 
-
-## How it Works
+<table>
+  <tr>
+    <td>
+    <img src="https://github.com/user-attachments/assets/7e3a6331-9cbc-4853-8e06-d04c9427673a" width="300">
+    </td>
+    <td>
+    <img src="https://github.com/user-attachments/assets/0ae49389-2381-48d1-a7c3-7247d2f505bf" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/788a1118-c266-4898-9ffe-395378e1f229" width="300">
+    </td>
+  </tr>
+</table>
 
 
