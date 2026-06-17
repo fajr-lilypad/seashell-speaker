@@ -67,6 +67,9 @@ Cad Notes:
 
  # Zine !!
 
+ <img width="361" height="517" alt="image" src="https://github.com/user-attachments/assets/a715563e-caef-4fd3-b6bf-7f7c3e0029c1" />
+
+
  # BOM
 
  | Item                 | Purpose                       | #        | Cost   | Supplier           | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
