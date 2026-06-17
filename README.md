@@ -67,7 +67,7 @@ Cad Notes:
 
  # Zine !!
 
- <img width="361" height="517" alt="image" src="https://github.com/user-attachments/assets/a715563e-caef-4fd3-b6bf-7f7c3e0029c1" />
+ <img width="359" height="512" alt="image" src="https://github.com/user-attachments/assets/3b9c3aa0-41c4-4339-9ec0-0e1f4b3db913" />
 
 
  # BOM
