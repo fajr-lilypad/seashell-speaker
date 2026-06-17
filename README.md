@@ -11,8 +11,7 @@ I came up wih this idea when I was thinking about how to expand my audio project
 
 # Cad Screenshots
 
-<img width="677" height="672" alt="Screenshot 2026-06-17 135838" src="https://github.com/user-attachments/assets/81d694b8-ef8a-4398-ac28-5ca726bae95e" />
-
+<img width="440" height="467" alt="image" src="https://github.com/user-attachments/assets/63dc20ee-ca95-40c3-a6ba-06fb988ac760" />
 
 <table>
   <tr>
