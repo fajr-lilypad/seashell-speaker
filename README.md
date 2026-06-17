@@ -102,5 +102,7 @@ Cad Notes:
 
 ## Firmware
 
+Unlike my previous audio projects, instead of using a micro sd card storing songs played by a df player, I used
+
 ## Notes and Acknowledgements
 - Thank you to *hackclub* and the *fallout* team for this oppurtunity and for making this project possible!
