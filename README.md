@@ -9,7 +9,20 @@ I came up wih this idea when I was thinking about how to expand my audio project
 <img width="475" height="344" alt="image" src="https://github.com/user-attachments/assets/92466fe1-1c7a-4206-b0d3-392e97c61276" />
 
 # Cad Screenshots
-<img width="499" height="557" alt="Screenshot 2026-06-17 134649" src="https://github.com/user-attachments/assets/b11755ee-97e8-4344-ac07-b260933cecd6" /> <img width="533" height="455" alt="Screenshot 2026-06-17 134711" src="https://github.com/user-attachments/assets/beb846e1-6428-4004-9a44-d0c6e3fc7f80" /> <img width="596" height="455" alt="Screenshot 2026-06-17 134804" src="https://github.com/user-attachments/assets/e74f694f-e673-4e02-8d6a-37c8f0aa872b" />
+
+<table>
+  <tr>
+    <td>
+    <img src="https://github.com/user-attachments/assets/c4b0c352-6a4f-4c3a-8f44-03dc07fce032" width="300">
+    </td>
+    <td>
+    <img src="https://github.com/user-attachments/assets/60ea2944-5caf-4ff7-953e-0cccb3af8535" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/eadf4e3f-f29a-490b-a3f9-8014323255b9" width="300">
+    </td>
+  </tr>
+</table>
 
 
 
