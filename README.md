@@ -102,7 +102,7 @@ Cad Notes:
 
 ## Firmware
 
-Unlike my previous audio projects, instead of using a micro sd card storing songs played by a df player, I used
+Unlike my previous audio projects, instead of using a micro sd card storing songs played by a df player, I used bluetooth connection via an esp32 and a BluetoothA2DPSink library I found from user pschatzmann. The code is fairly simple, and checks the tilt sensor in the background periodically, intercepting when a tilt is detected to pause/play audio.
 
 ## Notes and Acknowledgements
 - Thank you to *hackclub* and the *fallout* team for this oppurtunity and for making this project possible!
