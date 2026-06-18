@@ -4,7 +4,7 @@ A bluetooth speaker that automatically plays when tilted, encased in a seashell 
 
 <img width="348" height="435" alt="image" src="https://github.com/user-attachments/assets/bc8299e1-5082-409b-a344-e2b940161c4b" />  <img width="317" height="436" alt="image" src="https://github.com/user-attachments/assets/173d4e93-a95f-4a23-a910-28eb1dd76e32" />
 
-I came up wih this idea when I was thinking about how to expand my audio projects. This was created for hackclub's fallout program, and after first creating an mp3 player, I though the next step would be to make something that could use bluetooth, and then I took it to the next level by making it tilt activated! By coincidence, this is my second ocean-related project, lol. The design was inspired by the story we all know about hearing the ocean come from a shell, and partly inspired by the purple magic conch shell from spongebob, lol.
+I came up with this idea when I was thinking about how to expand my audio projects. This was created for hackclub's fallout program, and after first creating an mp3 player, I though the next step would be to make something that could use bluetooth, and then I took it to the next level by making it tilt activated! By coincidence, this is my second ocean-related project, lol. The design was inspired by the story we all know about hearing the ocean come from a shell, and partly inspired by the purple magic conch shell from spongebob, lol.
 
 <img width="475" height="344" alt="image" src="https://github.com/user-attachments/assets/92466fe1-1c7a-4206-b0d3-392e97c61276" />
 
@@ -58,7 +58,7 @@ Cad Notes:
 </table>
 
   PCB Notes:
-   - For the PCB, I did have to go thorugh a few versions. I mostly focused on creating super compact board without hingering the esp32's antenna, which wasn't too bad. However, my first designs were too big too fit in the case, so I had to go back to the drawing board, where I decided to make a round pcb that would sit between the top and bottom halves of the shell.
+   - For the PCB, I did have to go thorugh a few versions. I mostly focused on creating super compact board without hindering the esp32's antenna, which wasn't too bad. However, my first designs were too big too fit in the case, so I had to go back to the drawing board, where I decided to make a round pcb that would sit between the top and bottom halves of the shell.
    - This pcb includes a tilt sensor, charging module, switch, esp32, speaker output headers, and more (see bom)
 
 # Schematic Screenshot
